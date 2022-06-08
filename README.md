@@ -1,3 +1,7 @@
+# Webbu objective
+
+Webbu will help you personalize the way your web experience. 
+
 # Webbu Backend
 
 This repo has the code for Webbu's backend.
