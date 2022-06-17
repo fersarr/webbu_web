@@ -1,6 +1,6 @@
 # Webbu objective
 
-Webbu will help you personalize the way your web experience. 
+Webbu will help you personalize the way you experience the web. 
 
 # Webbu Backend
 
